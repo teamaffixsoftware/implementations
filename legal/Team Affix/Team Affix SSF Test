@@ -1,0 +1,67 @@
+Team Affix SSF Test
+8/10/18
+
+Security, safety, functionality.
+For developmental integrity within Team Affix, this "test" has been devised as a set of terms which will determine whether the unapproved service will be available for release.
+
+NOTE: 
+This test is mandatory for the release of any service to Affix Software.
+
+Proceed with an open mind.
+
+Introduction
+Understanding terminology
+From here on in this document; any and all services created or maintained by the Team Affix Management Board, being a program, or a website, etc, may be referred to as The "Product", or "Products"; Team Affix may refer to Team Affix and affiliates by saying "Our", "We", "Us" or "They"; The person that uses or downloads any of Our Products shall be referred to as The "User". The Product awaiting release approval may be referred to as The "Unapproved Service".
+
+
+Security:
+It has been deemed necessary that the Unapproved Service follows the specific Security Terms which correspond with the type of Product it is.
+
+Security Terms:
+
+Website Security:
+All website-type Unapproved Services must comply with the following security necessities.
+The website must establish a secure connection to it’s clients, or follow HTTPS protocol.
+
+Online Program Security:
+All online program-type Unapproved Services must comply with the following security necessities.
+The program must use heavy encryption methods, including the use of Asymmetric encryption 
+with a minimum key length of 2048-bit (recommended RSA-2048) when communicating to the server OR communicating over the internet in any way.
+         2.      The program must use Symmetric Encryption protecting all communication with the server OR any                         
+                    communication over the internet.
+         3.      The program must follow the current setup for encryption methods within the server, and messages   
+                    sent to the server must be understandable.
+         4.      The creator of the program must have full collaborative efforts with the Head of Cryptography at all   
+                    times, regarding any part of the cryptographic side of the program. 
+         5.      The program must use Symmetric AND/OR Asymmetric Encryption to protect all data stored within    
+                    the file system.
+
+Offline Program Security:
+All offline program-type Unapproved Services must comply with the following security necessities.
+
+         1.      The program must use Symmetric Encryption protecting all data stored within the file system.
+         2.      The creator of the program must have full collaborative efforts with the Head of Cryptography at all   
+                    times, regarding any part of the cryptographic side of the program. 
+
+
+
+Safety:
+The Unapproved Service must follow the specific Safety Terms which correspond with the type of Product it is.
+
+Safety Terms:
+
+
+Website Safety:
+All website-type Unapproved Services must comply with the following safety requirements.
+The website will not request personal information about any User. This does not include email addresses, IP Addresses, and first and last name. 
+We will not give out any of the information gathered from our Users, without being made necessary by law enforcement.
+
+Online Program Safety:
+All online program-type Unapproved Services must comply with the following safety requirements.
+The information collected for creation of an affiliation, etc, from the users, will not be sold or given away to any corporation or external body without the permission of the User or having been made necessary by law enforcement. (Terms of Conditions: Introduction: 1.4, 1.6, Legal Clause:  4.2)
+
+Offline Program Safety:
+All offline program-type Unapproved Services must comply with the following safety requirements.
+
+
+
